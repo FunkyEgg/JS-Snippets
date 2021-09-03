@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/MrEggoXYZ/JS-Snippets/issues"
   },
-  "homepage": "https://github.com/MrEggoXYZ/JS-Snippets#readme"
+  "homepage": "https://github.com/MrEggoXYZ/JS-Snippets#readme",
+  "dependencies": {
+
+  }
 }
