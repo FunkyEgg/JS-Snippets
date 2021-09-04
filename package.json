@@ -1,7 +1,7 @@
 {
   "name": "js-ecl",
   "version": "1.0.0",
-  "description": "a bunch of usefull javascript snippets for npm",
+  "description": "a extra code libary for npm",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
