@@ -5,7 +5,7 @@ a npm package full of javascript code snippets
 
 1; make sure you are using npm
 
-2; type "npm i jscodesnips"
+2; type "npm i js-ecl"
 
 3; in your code create a const that requires the package
  
