@@ -65,7 +65,7 @@ class Logic {
             } else throw new Error('invalid value for input 1');
         }
 
-        this.or = function(input1, input2) {
+        this.nor = function(input1, input2) {
             if (input1 === true || input1 === false) {
                 if (input2 === true || input2 === false) {
                     if (input1 === true || input2 === true) {
