@@ -1,9 +1,20 @@
-# Functions
-sleep(ms);
+# Regular Functions
+sleep(ms); stops the code for the spicifed amount of ms then resumes it
 
-getRandomInt(minNum, maxNum);
+getRandomInt(min, max); returns a random number between 2 specified numbers
 
-# What They Do?
-sleep(ms); this stops the code for specifed ms
+# Regular logic
+NOTE: ALL inputs have to be either true or false
 
-getRandomInt(minNum, maxNum); this returns a random number between the specifed numbers
+logic.and(input1, input2); runs a and gate on 2 inputs
+
+logic.not(input); inverts the input
+
+logic.or(input1, input2); runs a or gate on the 2 inputs
+
+# Oppisite logic
+NOTE: All inputs have to be either true or false
+
+logic.nand(input1, input2); runs a nand gate on the 2 inputs
+
+logic.nor(input1, input2); runs a nor gate on the 2 inputs
