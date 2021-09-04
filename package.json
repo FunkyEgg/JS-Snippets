@@ -1,7 +1,11 @@
 {
   "name": "js-ecl",
   "version": "1.0.1",
+<<<<<<< HEAD
   "description": "a bunch of usefull javascript snippets for npm",
+=======
+  "description": "a extra code libary for npm",
+>>>>>>> 8d6628feed37de754996c97d7c6eb8925381201d
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,8 +23,5 @@
   "bugs": {
     "url": "https://github.com/MrEggoXYZ/JS-Snippets/issues"
   },
-  "homepage": "https://github.com/MrEggoXYZ/JS-Snippets#readme",
-  "dependencies": {
-
-  }
+  "homepage": "https://github.com/MrEggoXYZ/JS-Snippets#readme"
 }
