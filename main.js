@@ -81,10 +81,23 @@ class Logic {
     }
 }
 
+class Math {
+    constructor() {
+        this.add = function(num1, num2) {
+            if(!num1) throw new Error('invalid value for num 1');
+            if(!num2) throw new Error('invalid value for num 2');
+
+            return num1 + num2;
+        }
+    }
+}
+
+let math = new Math();
 let logic = new Logic();
 
 module.exports = {
     getRandomInt,
     sleep,
-    logic
+    logic,
+    math
 }
